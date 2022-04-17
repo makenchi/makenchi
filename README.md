@@ -1,6 +1,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=makenchi" alt="makenchi" /></p>
 
-<img src="https://tenor.com/view/pacman-video-game-eating-marshmallow-gif-6008098" alt="come-come">
+<img src="https://c.tenor.com/4MALNxOjDYEAAAAC/pacman-video-game.gif" alt="come-come">
 
 ### Olá! Eu sou Lucas Santos, mais conhecido como Makenchi
    ##
