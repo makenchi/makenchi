@@ -1,4 +1,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=makenchi" alt="makenchi" /></p>
+
+<img src="https://tenor.com/zm8Y.gif" alt="come-come">
+
 ### Olá! Eu sou Lucas Santos, mais conhecido como Makenchi
    ##
 Sou preto, bisexual, desenvolvedor, podcaster e keyblader
